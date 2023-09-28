@@ -94,22 +94,24 @@ main a {
 main a:hover {
   color: red;
 }
-main .m1 {
+/* main .para .para1 p {
   margin-left: 30px;
 }
-main .m1::before {
+main .para {
+}
+main .para .para1::before {
   content: "";
   width: 0px;
   height: 8%;
   position: absolute;
   border: 3px solid green;
-  top: 315px;
+  top: 105px;
   left: 120px;
 }
-main .m2 {
+main .para .para2 {
   margin-left: 30px;
 }
-.m2::before {
+.para2::before {
   content: "";
   width: 0px;
   height: 8%;
@@ -117,7 +119,7 @@ main .m2 {
   border: 3px solid green;
   top: 705px;
   left: 120px;
-}
+} */
 section aside {
   width: 20%;
   float: right;
